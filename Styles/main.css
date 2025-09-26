@@ -1,0 +1,38 @@
+#intro-heading, #index-heading {
+    color: #2E8B57;
+    text-align: center;
+    margin-top: 20px;
+}
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+#index-activities, #index-places, #index-food, #index-intro {
+    background-color: #f0f8ff;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px auto;
+    width: 80%;
+}
+
+#index-activities {
+    border: 2px solid #8d5827;
+}
+
+#index-places {
+    border: 2px solid #4682b4;
+}
+
+#index-food {
+    border: 2px solid #ff6347;
+}
+
+#index-intro {
+    border: 2px solid #543a75;
+}
+
+#footer-index, #footer-intro {
+    text-align: center;
+    margin-top: 10%;
+    color: #555;
+}
