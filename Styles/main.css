@@ -1,0 +1,25 @@
+#ActivitiyBackround{ 
+    background-color: lightblue;
+}
+
+.ActivitiesIntro {
+    text-align: center;
+    border: solid black;
+    border-radius: 20px;
+}
+
+.Activity1{
+   border: solid black;
+   border-radius: 20px; 
+}
+
+.Activity2{
+    border: solid black;
+    border-radius: 20px; 
+}
+
+
+.Activity3{
+    border: solid black;
+    border-radius: 20px; 
+}
