@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #intro-heading, #index-heading {
     color: #2E8B57;
     text-align: center;
@@ -35,4 +36,31 @@ body {
     text-align: center;
     margin-top: 10%;
     color: #555;
+=======
+.FoodBody {
+    background-color:lightblue;
+}
+.FoodTitle h1 {
+ text-align: center;
+}
+.FoodIntro p {
+ text-align: center;
+ font-style: italic;
+    font-size: 1.2em;
+}
+.FoodText {
+    color:white;
+}
+.FoodText a {
+    color: white;
+    text-decoration: none;
+}
+.FoodText h2 {
+    font-size: 1.8em;
+}
+.FoodCounty {
+    font-size: 0.7em;
+    font-style: italic;
+    text-decoration: none; 
+>>>>>>> foods
 }
